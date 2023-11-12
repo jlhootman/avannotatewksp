@@ -30,8 +30,8 @@
           ]
         },
         "selector": {
-          "type": "PointSelector",
-          "t": "1.0"
+          "type": "RangeSelector",
+          "t": "105.0,110.0"
         }
       }
     }

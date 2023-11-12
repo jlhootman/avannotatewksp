@@ -31,7 +31,7 @@
         },
         "selector": {
           "type": "RangeSelector",
-          "t": "0.0,1.0"
+          "t": "52.0,60.0"
         }
       }
     },
@@ -61,8 +61,8 @@
           ]
         },
         "selector": {
-          "type": "PointSelector",
-          "t": "1.0"
+          "type": "RangeSelector",
+          "t": "85.0,95.0"
         }
       }
     },
@@ -92,8 +92,8 @@
           ]
         },
         "selector": {
-          "type": "PointSelector",
-          "t": "4.0"
+          "type": "RangeSelector",
+          "t": "268.0,272.0"
         }
       }
     }
