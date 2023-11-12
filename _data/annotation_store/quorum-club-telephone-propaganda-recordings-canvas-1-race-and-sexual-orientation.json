@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://jlhootman.github.io/avannotatewksp/annotations/quorum-club-telephone-propaganda-recordings-canvas-1-race-and-sexual-orientation.json",
+  "type": "AnnotationPage",
+  "label": "Race and Sexual Orientation",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "quorum-club-telephone-propaganda-recordings-canvas-1-race-and-sexual-orientation-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "homosexual parties and integration agitation",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://jlhootman.github.io/avannotatewksp/quorum-club-telephone-propaganda-recordings/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://norman.hrc.utexas.edu/notDM/objectManifest/p15878coll1v3/47",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1.0"
+        }
+      }
+    }
+  ]
+}

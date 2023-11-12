@@ -1,0 +1,101 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://jlhootman.github.io/avannotatewksp/annotations/quorum-club-telephone-propaganda-recordings-canvas-1-race-and-politics.json",
+  "type": "AnnotationPage",
+  "label": "Race and Politics",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "quorum-club-telephone-propaganda-recordings-canvas-1-race-and-politics-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "integration and discussion of communisim",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://jlhootman.github.io/avannotatewksp/quorum-club-telephone-propaganda-recordings/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://norman.hrc.utexas.edu/notDM/objectManifest/p15878coll1v3/47",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.0,1.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "quorum-club-telephone-propaganda-recordings-canvas-1-race-and-politics-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "black and whites dancing together discussing communist literature",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://jlhootman.github.io/avannotatewksp/quorum-club-telephone-propaganda-recordings/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://norman.hrc.utexas.edu/notDM/objectManifest/p15878coll1v3/47",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "quorum-club-telephone-propaganda-recordings-canvas-1-race-and-politics-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "integrated dancing and communist chit chat",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://jlhootman.github.io/avannotatewksp/quorum-club-telephone-propaganda-recordings/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://norman.hrc.utexas.edu/notDM/objectManifest/p15878coll1v3/47",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4.0"
+        }
+      }
+    }
+  ]
+}

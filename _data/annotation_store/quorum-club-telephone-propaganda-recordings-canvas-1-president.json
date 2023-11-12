@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://jlhootman.github.io/avannotatewksp/annotations/quorum-club-telephone-propaganda-recordings-canvas-1-president.json",
+  "type": "AnnotationPage",
+  "label": "President",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "quorum-club-telephone-propaganda-recordings-canvas-1-president-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "President Johnson",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://jlhootman.github.io/avannotatewksp/quorum-club-telephone-propaganda-recordings/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://norman.hrc.utexas.edu/notDM/objectManifest/p15878coll1v3/47",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4.0"
+        }
+      }
+    }
+  ]
+}
