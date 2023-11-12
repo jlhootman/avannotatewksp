@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: aviary
 title: Quorum Club telephone propaganda recordings
 manifest_name: quorum-club-telephone-propaganda-recordings
 permalink: quorum-club-telephone-propaganda-recordings
